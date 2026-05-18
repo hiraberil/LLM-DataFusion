@@ -38,10 +38,10 @@ DD-based LLM prompts outperform all traditional truth discovery baselines (DART,
 ├── data/
 │   ├── loader.py                # Load raw claims (book, movie, flight)
 │   ├── normalizer.py            # Text normalization
-│   └── preprocessor.py         # Preprocessing pipeline
+│   └── preprocessor.py          # Preprocessing pipeline
 ├── evaluation/
 │   ├── truth_loader.py          # Load ground truth
-│   └── metrics.py               # Recall/Precision/F1 (token-based & exact-match)
+│   └── metrics.py               # Recall/Precision/F1 
 ├── llm/
 │   ├── client.py                # OpenAI and Anthropic API calls
 │   ├── prompt_builder.py        # All prompt variants (DD/DI × 0/1-shot × C1/C2)
