@@ -6,7 +6,6 @@ from data.normalizer import normalize
 
 
 def parse_response(raw: str) -> set:
-    # Splits on ";", normalizes each part, and discards empty results.
     parts = raw.split(";")
     result = set()
     for part in parts:
