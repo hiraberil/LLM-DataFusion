@@ -5,7 +5,7 @@ Official code for the paper:
 > **Single and Multi Truth Data Fusion using Large Language Models**  
 > Hira Beril Kucuk, Norman W Paton, Jiaoyan Chen, Zhenyu Wu  
 > Department of Computer Science, University of Manchester  
-> ADBIS 2025
+
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -153,12 +153,6 @@ Primary experiments in the paper use `gpt-4o-mini`. Results with `gpt-4o` and `c
 
 If you use this code in your research, please cite:
 
-```bibtex
-@inproceedings{kucuk2025datafusion,
-  title     = {Single and Multi Truth Data Fusion using Large Language Models},
-  author    = {Kucuk, Hira Beril and Paton, Norman W and Chen, Jiaoyan and Wu, Zhenyu},
-  booktitle = {Proceedings of the 29th European Conference on Advances in Databases and Information Systems (ADBIS)},
-  year      = {2025},
-  publisher = {Springer}
+```
 }
 ```
