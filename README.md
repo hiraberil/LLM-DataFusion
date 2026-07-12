@@ -154,5 +154,10 @@ Primary experiments in the paper use `gpt-4o-mini`. Results with `gpt-4o` and `c
 If you use this code in your research, please cite:
 
 ```
+@article{kucuk2026single,
+  title={Single and Multi Truth Data Fusion using Large Language Models},
+  author={Kucuk, Hira Beril and Paton, Norman W and Chen, Jiaoyan and Wu, Zhenyu},
+  journal={arXiv preprint arXiv:2606.28062},
+  year={2026}
 }
 ```
